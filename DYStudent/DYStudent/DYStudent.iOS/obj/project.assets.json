@@ -556,7 +556,7 @@
   },
   "libraries": {
     "Xamarin.Forms/3.1.0.697729": {
-      "sha512": "YlFOM9u8onIRxJwYJ3l+O0wFKqzzrDjDrgnoBr1rct+eaQKU77vFydxvTP+WxYlYzR14hYvyLNC65L84+6ke6w==",
+      "sha512": "oYfHpCY9i9wN4vLllsIhzDZY5iOCUtZ3RHxID1fiXOcf7yL9UA16NUsI8opoNmpv1Ru2lTGG9ZKKT1sYS6DLjA==",
       "type": "package",
       "path": "xamarin.forms/3.1.0.697729",
       "files": [
@@ -588,13 +588,11 @@
         "lib/MonoAndroid10/Design/Xamarin.Forms.Core.Design.dll",
         "lib/MonoAndroid10/Design/Xamarin.Forms.Xaml.Design.dll",
         "lib/MonoAndroid10/FormsViewGroup.dll",
-        "lib/MonoAndroid10/FormsViewGroup.dll.mdb",
         "lib/MonoAndroid10/FormsViewGroup.pdb",
         "lib/MonoAndroid10/Xamarin.Forms.Core.dll",
         "lib/MonoAndroid10/Xamarin.Forms.Core.pdb",
         "lib/MonoAndroid10/Xamarin.Forms.Core.xml",
         "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll",
-        "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll.mdb",
         "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.pdb",
         "lib/MonoAndroid10/Xamarin.Forms.Platform.dll",
         "lib/MonoAndroid10/Xamarin.Forms.Xaml.dll",
@@ -719,20 +717,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\haptxse62665\\.nuget\\packages\\": {}
+    "C:\\Users\\VuHN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Capstone semester\\DY\\DYStudent\\DYStudent\\DYStudent.iOS\\DYStudent.iOS.csproj",
+      "projectUniqueName": "D:\\DYProject\\DYStudent\\DYStudent\\DYStudent.iOS\\DYStudent.iOS.csproj",
       "projectName": "DYStudent.iOS",
-      "projectPath": "D:\\Capstone semester\\DY\\DYStudent\\DYStudent\\DYStudent.iOS\\DYStudent.iOS.csproj",
-      "packagesPath": "C:\\Users\\haptxse62665\\.nuget\\packages\\",
-      "outputPath": "D:\\Capstone semester\\DY\\DYStudent\\DYStudent\\DYStudent.iOS\\obj\\",
+      "projectPath": "D:\\DYProject\\DYStudent\\DYStudent\\DYStudent.iOS\\DYStudent.iOS.csproj",
+      "packagesPath": "C:\\Users\\VuHN\\.nuget\\packages\\",
+      "outputPath": "D:\\DYProject\\DYStudent\\DYStudent\\DYStudent.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\haptxse62665\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\VuHN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -745,8 +743,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Capstone semester\\DY\\DYStudent\\DYStudent\\DYStudent\\DYStudent.csproj": {
-              "projectPath": "D:\\Capstone semester\\DY\\DYStudent\\DYStudent\\DYStudent\\DYStudent.csproj"
+            "D:\\DYProject\\DYStudent\\DYStudent\\DYStudent\\DYStudent.csproj": {
+              "projectPath": "D:\\DYProject\\DYStudent\\DYStudent\\DYStudent\\DYStudent.csproj"
             }
           }
         }

@@ -1,0 +1,12 @@
+D:\DYProject\DYResponses\DYResponses\DYResponses\bin\Debug\netstandard2.0\DYResponses.deps.json
+D:\DYProject\DYResponses\DYResponses\DYResponses\bin\Debug\netstandard2.0\DYResponses.dll
+D:\DYProject\DYResponses\DYResponses\DYResponses\bin\Debug\netstandard2.0\DYResponses.pdb
+D:\DYProject\DYResponses\DYResponses\DYResponses\obj\Debug\netstandard2.0\DYResponses.csprojAssemblyReference.cache
+D:\DYProject\DYResponses\DYResponses\DYResponses\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\DYProject\DYResponses\DYResponses\DYResponses\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\DYProject\DYResponses\DYResponses\DYResponses\obj\Debug\netstandard2.0\DYResponses.csproj.CoreCompileInputs.cache
+D:\DYProject\DYResponses\DYResponses\DYResponses\obj\Debug\netstandard2.0\DYResponses.AssemblyInfoInputs.cache
+D:\DYProject\DYResponses\DYResponses\DYResponses\obj\Debug\netstandard2.0\DYResponses.AssemblyInfo.cs
+D:\DYProject\DYResponses\DYResponses\DYResponses\obj\Debug\netstandard2.0\XamlC.stamp
+D:\DYProject\DYResponses\DYResponses\DYResponses\obj\Debug\netstandard2.0\DYResponses.dll
+D:\DYProject\DYResponses\DYResponses\DYResponses\obj\Debug\netstandard2.0\DYResponses.pdb

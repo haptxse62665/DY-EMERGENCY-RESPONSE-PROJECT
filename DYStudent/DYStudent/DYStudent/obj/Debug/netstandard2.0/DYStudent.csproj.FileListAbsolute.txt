@@ -1,0 +1,11 @@
+D:\DYProject\DYStudent\DYStudent\DYStudent\bin\Debug\netstandard2.0\DYStudent.deps.json
+D:\DYProject\DYStudent\DYStudent\DYStudent\bin\Debug\netstandard2.0\DYStudent.dll
+D:\DYProject\DYStudent\DYStudent\DYStudent\bin\Debug\netstandard2.0\DYStudent.pdb
+D:\DYProject\DYStudent\DYStudent\DYStudent\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\DYProject\DYStudent\DYStudent\DYStudent\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\DYProject\DYStudent\DYStudent\DYStudent\obj\Debug\netstandard2.0\DYStudent.csproj.CoreCompileInputs.cache
+D:\DYProject\DYStudent\DYStudent\DYStudent\obj\Debug\netstandard2.0\DYStudent.AssemblyInfoInputs.cache
+D:\DYProject\DYStudent\DYStudent\DYStudent\obj\Debug\netstandard2.0\DYStudent.AssemblyInfo.cs
+D:\DYProject\DYStudent\DYStudent\DYStudent\obj\Debug\netstandard2.0\XamlC.stamp
+D:\DYProject\DYStudent\DYStudent\DYStudent\obj\Debug\netstandard2.0\DYStudent.dll
+D:\DYProject\DYStudent\DYStudent\DYStudent\obj\Debug\netstandard2.0\DYStudent.pdb

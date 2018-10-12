@@ -1,0 +1,8 @@
+D:\DYProject\DYStudent\DYStudent\DYStudent.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\DYProject\DYStudent\DYStudent\DYStudent.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\DYProject\DYStudent\DYStudent\DYStudent.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\DYProject\DYStudent\DYStudent\DYStudent.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+D:\DYProject\DYStudent\DYStudent\DYStudent.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\DYProject\DYStudent\DYStudent\DYStudent.iOS\obj\iPhoneSimulator\Debug\optimized\
+D:\DYProject\DYStudent\DYStudent\DYStudent.iOS\obj\iPhoneSimulator\Debug\DYStudent.iOS.csprojAssemblyReference.cache
+D:\DYProject\DYStudent\DYStudent\DYStudent.iOS\obj\iPhoneSimulator\Debug\DYStudent.iOS.csproj.CoreCompileInputs.cache

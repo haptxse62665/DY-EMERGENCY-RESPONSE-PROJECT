@@ -1,0 +1,2 @@
+D:\DYProject\DYStudent\DYStudent\DYStudent.Android\obj\Debug\MonoAndroid81\DYStudent.Android.csprojAssemblyReference.cache
+D:\DYProject\DYStudent\DYStudent\DYStudent.Android\obj\Debug\MonoAndroid81\res.flag
