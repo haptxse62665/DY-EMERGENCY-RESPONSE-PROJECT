@@ -2,17 +2,18 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:DYResponses"
-             x:Class="DYResponses.MainPage">
+             x:Class="DYResponses.MainPage"
+             BackgroundColor="#254F6E">
 
     <StackLayout>
-        <!-- Place new controls here -->
-        <StackLayout Orientation="Horizontal">
-            <Label Text="Username" HorizontalOptions="Start"/>
-            <Entry Placeholder="Your Email"/>
+        <StackLayout HeightRequest="250" BackgroundColor="White" ></StackLayout>
+        <StackLayout Orientation="Horizontal" Padding="30">
+            <Label Text="Username" HorizontalOptions="Start" TextColor="White" FontSize="Large"/>
+            <Entry Placeholder="Your Email" PlaceholderColor="White"/>
         </StackLayout>
         <StackLayout Orientation="Horizontal">
-            <Label Text="Password" HorizontalOptions="Start"/>
-            <Entry Placeholder="Your Password"/>
+            <Label Text="Password" HorizontalOptions="Start" TextColor="White" FontSize="Large"/>
+            <Entry Placeholder="Your Password" PlaceholderColor="White"/>
         </StackLayout>
         <Button HorizontalOptions="Center" Text="Login"/>
     </StackLayout>
