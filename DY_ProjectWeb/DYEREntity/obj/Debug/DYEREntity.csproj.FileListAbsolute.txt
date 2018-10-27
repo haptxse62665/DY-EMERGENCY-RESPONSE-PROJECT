@@ -1,0 +1,12 @@
+C:\Users\Binh Super!!!!\Documents\DY_Data\DY_ProjectWeb\DYEREntity\bin\Debug\DYEREntity.dll.config
+C:\Users\Binh Super!!!!\Documents\DY_Data\DY_ProjectWeb\DYEREntity\bin\Debug\DYEREntity.dll
+C:\Users\Binh Super!!!!\Documents\DY_Data\DY_ProjectWeb\DYEREntity\bin\Debug\DYEREntity.pdb
+C:\Users\Binh Super!!!!\Documents\DY_Data\DY_ProjectWeb\DYEREntity\bin\Debug\EntityFramework.dll
+C:\Users\Binh Super!!!!\Documents\DY_Data\DY_ProjectWeb\DYEREntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Binh Super!!!!\Documents\DY_Data\DY_ProjectWeb\DYEREntity\bin\Debug\EntityFramework.xml
+C:\Users\Binh Super!!!!\Documents\DY_Data\DY_ProjectWeb\DYEREntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Binh Super!!!!\Documents\DY_Data\DY_ProjectWeb\DYEREntity\obj\Debug\DYEREntity.csprojAssemblyReference.cache
+C:\Users\Binh Super!!!!\Documents\DY_Data\DY_ProjectWeb\DYEREntity\obj\Debug\DYEREntity.csproj.CoreCompileInputs.cache
+C:\Users\Binh Super!!!!\Documents\DY_Data\DY_ProjectWeb\DYEREntity\obj\Debug\DYEREntity.csproj.CopyComplete
+C:\Users\Binh Super!!!!\Documents\DY_Data\DY_ProjectWeb\DYEREntity\obj\Debug\DYEREntity.dll
+C:\Users\Binh Super!!!!\Documents\DY_Data\DY_ProjectWeb\DYEREntity\obj\Debug\DYEREntity.pdb
